@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icarus</title>
-    <link>http://werflala.github.io/</link>
+    <link>https://werflala.github.io/</link>
     <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2020 23:46:52 +0800</lastBuildDate>
     
-	<atom:link href="http://werflala.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://werflala.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://werflala.github.io/2020/02/18/first/</link>
+      <link>https://werflala.github.io/2020/02/18/first/</link>
       <pubDate>Tue, 18 Feb 2020 23:46:52 +0800</pubDate>
       
-      <guid>http://werflala.github.io/2020/02/18/first/</guid>
+      <guid>https://werflala.github.io/2020/02/18/first/</guid>
       <description>Hello Hugo  aaa bbb ccc  </description>
     </item>
     
